@@ -19,5 +19,5 @@ support multithreading,batch scanning and vulnerability exploitation
 [lijiejie/edu-dns-zone-transfer](https://github.com/lijiejie/edu-dns-zone-transfer)  
 代码不多，拿过来基本没怎么改，向大师学习！  
   
-[http://www.cdxy.com](http://www.cdxy.com/)  
+[http://www.cdxy.me](http://www.cdxy.me/)  
 mail: i@cdxy.me  
