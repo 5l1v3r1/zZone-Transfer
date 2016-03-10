@@ -54,3 +54,127 @@ dns.ce.cn                         ce.cn
 
 ns3.ce.cn                         ce.cn
 
+dns.ce.cn                         ce.cn
+
+ns3.ce.cn                         ce.cn
+
+ns.westidc.com.cn                 scwst.gov.cn
+
+ns1.jap.co.jp                     norikanesque.com
+
+ns2.jap.co.jp                     norikanesque.com
+
+ns6.livedoor.com                  livedoor.com
+
+ns5.livedoor.com                  livedoor.com
+
+nns3.nissen.co.jp                 nissen.com
+
+ns3.dnp.co.jp                     dnp.co.jp
+
+ns2.dnp.co.jp                     dnp.co.jp
+
+ns4.dnp.co.jp                     dnp.co.jp
+
+ns1.jj1.ne.jp                     sanseido.net
+
+cancer.ucs.ed.ac.uk               ed.ac.uk
+
+cancer.ucs.ed.ac.uk               nls.uk
+
+lewis.ucs.ed.ac.uk                ed.ac.uk
+
+cancer.ucs.ed.ac.uk               ukc.ac.uk
+
+cancer.ucs.ed.ac.uk               nms.ac.uk
+
+inet.americanmensa.org            mensa.org
+
+lewis.ucs.ed.ac.uk                nms.ac.uk
+
+lsd.chicago.il.us                 mensa.org
+
+ns7.dns.net.cn                    hitecube.com
+
+ns.dns.net.cn                     hitecube.com
+
+ns2.mainnameserver.com            sbns.org.uk
+
+ns.mainnameserver.com             sbns.org.uk
+
+adns0.bath.ac.uk                  le.ac.uk
+
+ns1.treasury.gov                  ustreas.gov
+
+ns3.treasury.gov                  ustreas.gov
+
+dns01.benq.com                    benq.com
+
+ns2.sina.com.tw                   sina.com.tw
+
+ns2.pacific.net.hk                union.org
+
+ns1.pacific.net.hk                union.org
+
+ns1.youthwant.com.tw              youthwant.com.tw
+
+ipmsun2.ipm.edu.mo                ipm.edu.mo
+
+gtv01.gtv.com.tw                  gtv.com.tw
+
+dns.gtv.com.tw                    gtv.com.tw
+
+ncldns2.ncl.edu.tw                ncl.edu.tw
+
+tiger.pchome.com.tw               pchome.com.tw
+
+dns.pchome.com.tw                 pchome.com.tw
+
+ns3.tdm.com.mo                    tdm.com.mo
+
+ns1.hk.super.net                  hkah.org.hk
+
+ns2.hk.super.net                  hkah.org.hk
+
+ns1.kland.com.tw                  kland.com.tw
+
+ns.lining.cn                      li-ning.com
+
+ns.lining.com                     li-ning.com
+
+ntserver1.ift.edu.mo              ift.edu.mo
+
+cguaplo2.cgu.edu.tw               cgu.edu.tw
+
+dns01.discoverhongkong.com        discoverhongkong.com
+
+ns2.dsec.gov.mo                   dsec.gov.mo
+
+ns4.parklogic.com                 travelusb.com
+
+ns3.parklogic.com                 travelusb.com
+
+cguaplo3.cgu.edu.tw               cgu.edu.tw
+
+dns2.mombaby.com.tw               mombaby.com.tw
+
+dns.mombaby.com.tw                mombaby.com.tw
+
+ns5.parklogic.com                 travelusb.com
+
+ns2.parklogic.com                 travelusb.com
+
+kdns2.kingnet.com.tw              kingnet.com.tw
+
+ns1.kingnet.com.tw                kingnet.com.tw
+
+ns3.efaith.com.hk                 hkadc.org.hk
+
+ns2.efaith.com.hk                 hkadc.org.hk
+
+ns2.must.edu.mo                   must.edu.mo
+
+ns1.pacific.net.hk                np360.com.hk
+
+ns2.pacific.net.hk                np360.com.hk
+
