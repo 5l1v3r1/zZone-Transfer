@@ -1,0 +1,56 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns.stn.sh.cn axfr stc.sh.cn
+; (1 server found)
+;; global options: +cmd
+stc.sh.cn.		86400	IN	SOA	dns.stn.sh.cn. root.dns.stn.sh.cn. 20130917 10800 3600 604800 86400
+stc.sh.cn.		86400	IN	MX	10 antic0.stnc.cn.
+stc.sh.cn.		86400	IN	NS	dns.stn.sh.cn.
+stc.sh.cn.		86400	IN	NS	sns.stn.sh.cn.
+cas.stc.sh.cn.		86400	IN	MX	10 mx01.ex.ufhost.com.
+autodiscover.cas.stc.sh.cn. 86400 IN	CNAME	auto.ex.ufhost.com.
+mail.cas.stc.sh.cn.	86400	IN	CNAME	owa01.ex.ufhost.com.
+www.cas.stc.sh.cn.	86400	IN	A	203.156.193.126
+cas.stc.sh.cn.stc.sh.cn. 86400	IN	TXT	"v=spf1 include:spf.ufhost.com ~all"
+d3.stc.sh.cn.		86400	IN	A	192.168.1.3
+david.stc.sh.cn.	86400	IN	A	203.95.0.22
+download.stc.sh.cn.	86400	IN	A	203.95.0.1
+fly.stc.sh.cn.		86400	IN	A	203.95.0.23
+huxing.stc.sh.cn.	86400	IN	A	203.95.0.22
+ica.stc.sh.cn.		86400	IN	NS	dns.ica.stc.sh.cn.
+dns.ica.stc.sh.cn.	86400	IN	A	211.144.121.115
+innofund.stc.sh.cn.	86400	IN	A	203.95.0.22
+mail.stc.sh.cn.		86400	IN	CNAME	twsd0.stnc.cn.
+mmit.stc.sh.cn.		86400	IN	NS	dns.mmit.stc.sh.cn.
+dns.mmit.stc.sh.cn.	86400	IN	A	211.144.121.115
+ms.stc.sh.cn.		86400	IN	A	211.144.108.144
+personal.stc.sh.cn.	86400	IN	A	61.129.50.1
+pop.stc.sh.cn.		86400	IN	CNAME	twsbsa0.stnc.cn.
+www.qpst.stc.sh.cn.	86400	IN	A	211.144.106.138
+www.saas.stc.sh.cn.	86400	IN	A	61.129.49.112
+www.sass.stc.sh.cn.	86400	IN	A	203.95.6.3
+scs.stc.sh.cn.		600	IN	A	202.120.199.54
+shjcy.stc.sh.cn.	86400	IN	A	203.95.0.22
+sict.stc.sh.cn.		86400	IN	NS	www.sict.stc.sh.cn.
+sict.stc.sh.cn.		86400	IN	A	211.144.102.129
+sict.stc.sh.cn.		86400	IN	MX	10 sict.stc.sh.cn.
+www.sict.stc.sh.cn.	86400	IN	A	211.144.102.129
+simtt.stc.sh.cn.	86400	IN	A	203.95.0.22
+sippr.stc.sh.cn.	86400	IN	MX	10 mail.sippr.stc.sh.cn.
+sippr.stc.sh.cn.	86400	IN	A	117.135.140.65
+mail.sippr.stc.sh.cn.	86400	IN	A	211.144.101.121
+oa.sippr.stc.sh.cn.	86400	IN	A	211.144.101.122
+www.sippr.stc.sh.cn.	86400	IN	A	117.135.140.65
+smtp.stc.sh.cn.		86400	IN	CNAME	twsasa0.stnc.cn.
+srcap.stc.sh.cn.	86400	IN	A	211.144.104.225
+srcap.stc.sh.cn.	86400	IN	MX	10 211.144.104.229.stc.sh.cn.
+srcap.stc.sh.cn.	86400	IN	MX	20 211.144.104.225.stc.sh.cn.
+www.srimt.stc.sh.cn.	86400	IN	A	61.129.49.152
+www.tcct.stc.sh.cn.	86400	IN	A	114.80.192.5
+www.stc.sh.cn.		86400	IN	A	203.95.1.202
+yf.stc.sh.cn.		86400	IN	A	211.144.97.7
+stc.sh.cn.		86400	IN	SOA	dns.stn.sh.cn. root.dns.stn.sh.cn. 20130917 10800 3600 604800 86400
+;; Query time: 173 msec
+;; SERVER: 203.95.1.1#53(203.95.1.1)
+;; WHEN: Thu Mar 10 15:15:29 中国标准时间 2016
+;; XFR size: 47 records (messages 1, bytes 1165)
+

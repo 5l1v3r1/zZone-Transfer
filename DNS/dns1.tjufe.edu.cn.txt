@@ -1,0 +1,131 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns1.tjufe.edu.cn axfr tjufe.edu.cn
+; (1 server found)
+;; global options: +cmd
+tjufe.edu.cn.		3600	IN	SOA	dns1.tjufe.edu.cn. root.tjufe.edu.cn. 2016030904 30 30 360 3600
+tjufe.edu.cn.		3600	IN	TXT	"v=spf1 include:spf.163.com -all"
+tjufe.edu.cn.		3600	IN	MX	5 mxhm.qiye.163.com.
+tjufe.edu.cn.		3600	IN	NS	dns.tjufe.edu.cn.
+tjufe.edu.cn.		3600	IN	NS	dns1.tjufe.edu.cn.
+_dmarc.tjufe.edu.cn.	3600	IN	TXT	"v=DMARC1\; p=none\; fo=1\; ruf=mailto:dmarc@qiye.163.com\; rua=mailto:dmarc_report@qiye.163.com"
+acca.tjufe.edu.cn.	3600	IN	A	202.113.128.66
+ads.tjufe.edu.cn.	3600	IN	A	121.193.151.211
+apps.tjufe.edu.cn.	3600	IN	A	202.113.128.114
+base.tjufe.edu.cn.	3600	IN	A	202.113.128.43
+bh.tjufe.edu.cn.	3600	IN	A	121.193.151.205
+business.tjufe.edu.cn.	3600	IN	A	121.193.151.195
+card.tjufe.edu.cn.	3600	IN	A	121.193.151.65
+cco.tjufe.edu.cn.	3600	IN	A	202.113.128.112
+cdcwc.tjufe.edu.cn.	3600	IN	A	121.193.151.43
+cdpt.tjufe.edu.cn.	3600	IN	A	172.26.1.51
+cima.tjufe.edu.cn.	3600	IN	A	202.113.128.66
+cpm.tjufe.edu.cn.	3600	IN	A	202.113.128.110
+cw.tjufe.edu.cn.	3600	IN	A	121.193.151.170
+cxcy.tjufe.edu.cn.	3600	IN	A	121.193.151.204
+dagong.tjufe.edu.cn.	3600	IN	A	121.193.151.209
+f210-1.deim.tjufe.edu.cn. 3600	IN	A	202.113.142.200
+dns.tjufe.edu.cn.	3600	IN	A	202.113.128.10
+dns1.tjufe.edu.cn.	3600	IN	A	202.113.128.11
+dpstar.tjufe.edu.cn.	3600	IN	A	121.193.151.15
+e.tjufe.edu.cn.		3600	IN	A	202.113.128.108
+ecard.tjufe.edu.cn.	3600	IN	A	121.193.151.63
+emba.tjufe.edu.cn.	3600	IN	A	202.113.128.107
+en.tjufe.edu.cn.	3600	IN	A	121.193.151.214
+fzzl.tjufe.edu.cn.	3600	IN	A	121.193.151.216
+globalgian.tjufe.edu.cn. 3600	IN	A	202.113.128.110
+gzk.tjufe.edu.cn.	3600	IN	A	202.113.128.110
+hr.tjufe.edu.cn.	3600	IN	A	121.193.151.10
+icfse.tjufe.edu.cn.	3600	IN	A	202.113.128.110
+ids1.tjufe.edu.cn.	3600	IN	A	121.193.151.13
+ids2.tjufe.edu.cn.	3600	IN	A	121.193.151.14
+imap.tjufe.edu.cn.	3600	IN	CNAME	imaphm.qiye.163.com.
+imba.tjufe.edu.cn.	3600	IN	A	202.113.128.107
+imp.tjufe.edu.cn.	3600	IN	A	121.193.151.15
+inter.tjufe.edu.cn.	3600	IN	A	202.113.128.64
+jgdw.tjufe.edu.cn.	3600	IN	A	121.193.151.170
+jiaowu.tjufe.edu.cn.	3600	IN	A	202.113.128.23
+jingpin.tjufe.edu.cn.	3600	IN	A	172.26.4.16
+jiuye.tjufe.edu.cn.	3600	IN	A	202.113.128.107
+jjx.tjufe.edu.cn.	3600	IN	A	202.113.128.110
+jm.tjufe.edu.cn.	3600	IN	A	202.113.128.110
+jpkc.tjufe.edu.cn.	3600	IN	A	202.113.128.105
+jpkch.tjufe.edu.cn.	3600	IN	A	202.113.128.105
+jsjlab.tjufe.edu.cn.	3600	IN	A	202.113.133.20
+jsjlab1.tjufe.edu.cn.	3600	IN	A	202.113.133.21
+jsjlab2.tjufe.edu.cn.	3600	IN	A	202.113.133.23
+jsjlab4.tjufe.edu.cn.	3600	IN	A	60.28.144.226
+jsjlab5.tjufe.edu.cn.	3600	IN	A	202.113.133.9
+jsjlab6.tjufe.edu.cn.	3600	IN	A	202.113.133.12
+jw.tjufe.edu.cn.	3600	IN	A	121.193.151.167
+jwch.tjufe.edu.cn.	3600	IN	A	202.113.128.107
+jwxsd.tjufe.edu.cn.	3600	IN	A	121.193.151.133
+jwxt.tjufe.edu.cn.	3600	IN	A	121.193.151.162
+jxcg.tjufe.edu.cn.	3600	IN	A	202.113.128.109
+jyx.tjufe.edu.cn.	3600	IN	A	202.113.142.32
+lib.tjufe.edu.cn.	3600	IN	A	202.113.140.33
+libproxy.tjufe.edu.cn.	3600	IN	A	202.113.140.21
+ligong.tjufe.edu.cn.	3600	IN	A	121.193.151.186
+ltx.tjufe.edu.cn.	3600	IN	A	121.193.151.170
+mail.tjufe.edu.cn.	3600	IN	CNAME	mailhz.qiye.163.com.
+mba.tjufe.edu.cn.	3600	IN	A	202.113.128.107
+mbacdc.tjufe.edu.cn.	3600	IN	A	202.113.128.107
+mbaeducation.tjufe.edu.cn. 3600	IN	A	202.113.128.110
+mpa.tjufe.edu.cn.	3600	IN	A	202.113.128.110
+mpacc.tjufe.edu.cn.	3600	IN	A	202.113.128.110
+my.tjufe.edu.cn.	3600	IN	A	121.193.151.10
+oa.tjufe.edu.cn.	3600	IN	A	121.193.151.161
+open.tjufe.edu.cn.	3600	IN	A	202.113.128.111
+out1.tjufe.edu.cn.	3600	IN	A	202.113.132.30
+pan.tjufe.edu.cn.	3600	IN	A	202.113.128.41
+pop.tjufe.edu.cn.	3600	IN	CNAME	pophm.qiye.163.com.
+pt.tjufe.edu.cn.	3600	IN	A	202.113.128.23
+pub.tjufe.edu.cn.	3600	IN	A	202.113.128.120
+public.tjufe.edu.cn.	3600	IN	A	202.113.128.109
+rcfi.tjufe.edu.cn.	3600	IN	A	202.113.128.107
+renwen.tjufe.edu.cn.	3600	IN	A	121.193.151.164
+sce.tjufe.edu.cn.	3600	IN	A	121.193.151.170
+sdv.tjufe.edu.cn.	3600	IN	A	202.113.128.106
+service.tjufe.edu.cn.	3600	IN	A	202.113.128.103
+sfpt.tjufe.edu.cn.	3600	IN	A	202.113.129.9
+smtp.tjufe.edu.cn.	3600	IN	CNAME	smtphm.qiye.163.com.
+stu.tjufe.edu.cn.	3600	IN	TXT	"v=spf1 include:spf.163.com -all"
+stu.tjufe.edu.cn.	3600	IN	MX	5 mxhm.qiye.163.com.
+_dmarc.stu.tjufe.edu.cn. 3600	IN	TXT	"v=DMARC1\; p=none\; fo=1\; ruf=mailto:dmarc@qiye.163.com\; rua=mailto:dmarc_report@qiye.163.com"
+imap.stu.tjufe.edu.cn.	3600	IN	CNAME	imaphm.qiye.163.com.
+mail.stu.tjufe.edu.cn.	3600	IN	CNAME	mailhz.qiye.163.com.
+pop.stu.tjufe.edu.cn.	3600	IN	CNAME	pophm.qiye.163.com.
+smtp.stu.tjufe.edu.cn.	3600	IN	CNAME	smtphm.qiye.163.com.
+sxjj.tjufe.edu.cn.	3600	IN	A	121.193.151.170
+syss.tjufe.edu.cn.	3600	IN	A	121.193.151.170
+tafta.tjufe.edu.cn.	3600	IN	A	121.193.151.215
+tcjxcg.tjufe.edu.cn.	3600	IN	A	121.193.151.206
+tcsxy.tjufe.edu.cn.	3600	IN	A	121.193.151.195
+tcxinxi.tjufe.edu.cn.	3600	IN	A	202.113.142.42
+tel.tjufe.edu.cn.	3600	IN	A	202.113.128.114
+tj.tjufe.edu.cn.	3600	IN	A	202.113.128.110
+trans.tjufe.edu.cn.	3600	IN	A	121.193.151.64
+tufeaa.tjufe.edu.cn.	3600	IN	A	121.193.151.169
+video.tjufe.edu.cn.	3600	IN	A	121.193.151.170
+waiyuxi.tjufe.edu.cn.	3600	IN	A	121.193.151.191
+www.tjufe.edu.cn.	3600	IN	A	202.113.128.123
+www6.tjufe.edu.cn.	3600	IN	AAAA	2001:da8:a00a:1::123
+xdcj.tjufe.edu.cn.	3600	IN	A	121.193.151.198
+xg.tjufe.edu.cn.	3600	IN	A	121.193.151.10
+xgb.tjufe.edu.cn.	3600	IN	A	121.193.151.199
+xiandai.tjufe.edu.cn.	3600	IN	A	202.113.128.110
+xiaoyou.tjufe.edu.cn.	3600	IN	A	121.193.151.169
+xinxi.tjufe.edu.cn.	3600	IN	A	202.113.142.45
+ysf.tjufe.edu.cn.	3600	IN	A	121.193.151.180
+zcc.tjufe.edu.cn.	3600	IN	A	121.193.151.170
+zhaosheng.tjufe.edu.cn.	3600	IN	A	202.113.128.107
+zhibo.tjufe.edu.cn.	3600	IN	A	121.193.151.179
+zhujiang.tjufe.edu.cn.	3600	IN	A	121.193.151.189
+zkb.tjufe.edu.cn.	3600	IN	A	202.113.128.7
+zs.tjufe.edu.cn.	3600	IN	A	121.193.151.170
+zsj.tjufe.edu.cn.	3600	IN	A	121.193.151.27
+tjufe.edu.cn.		3600	IN	SOA	dns1.tjufe.edu.cn. root.tjufe.edu.cn. 2016030904 30 30 360 3600
+;; Query time: 47 msec
+;; SERVER: 202.113.128.11#53(202.113.128.11)
+;; WHEN: Thu Mar 10 14:41:48 中国标准时间 2016
+;; XFR size: 122 records (messages 1, bytes 2926)
+

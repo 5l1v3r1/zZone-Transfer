@@ -1,0 +1,29 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @cnc.cbrc.gov.cn axfr cbrc.gov.cn
+; (1 server found)
+;; global options: +cmd
+cbrc.gov.cn.		7200	IN	SOA	cbrc.gov.cn. root.cbrc.gov.cn. 2015101917 604800 86400 2419200 604800
+cbrc.gov.cn.		7200	IN	TXT	"A text string"
+cbrc.gov.cn.		7200	IN	NS	ct.cbrc.gov.cn.
+cbrc.gov.cn.		7200	IN	NS	cnc.cbrc.gov.cn.
+cbrc.gov.cn.		7200	IN	MX	10 mail.cbrc.gov.cn.
+cbrc.gov.cn.		7200	IN	MX	20 mail.cbrc.gov.cn.
+cbrc.gov.cn.		7200	IN	MX	30 mail.cbrc.gov.cn.
+cbrc.gov.cn.		7200	IN	MX	40 mail.cbrc.gov.cn.
+cnc.cbrc.gov.cn.	7200	IN	A	202.108.87.50
+ct.cbrc.gov.cn.		7200	IN	A	219.142.46.253
+mail.cbrc.gov.cn.	7200	IN	A	202.108.87.2
+mail.cbrc.gov.cn.	7200	IN	A	202.108.87.11
+mail.cbrc.gov.cn.	7200	IN	A	219.142.46.194
+mail.cbrc.gov.cn.	7200	IN	A	219.142.46.203
+sh.cbrc.gov.cn.		7200	IN	MX	40 sh.cbrc.gov.cn.
+sh.cbrc.gov.cn.		7200	IN	A	218.78.208.135
+mail.sh.cbrc.gov.cn.	7200	IN	A	218.78.208.130
+pop.sh.cbrc.gov.cn.	7200	IN	A	218.78.208.132
+smtp.sh.cbrc.gov.cn.	7200	IN	A	218.78.208.131
+cbrc.gov.cn.		7200	IN	SOA	cbrc.gov.cn. root.cbrc.gov.cn. 2015101917 604800 86400 2419200 604800
+;; Query time: 15 msec
+;; SERVER: 202.108.87.50#53(202.108.87.50)
+;; WHEN: Thu Mar 10 16:02:34 中国标准时间 2016
+;; XFR size: 20 records (messages 1, bytes 429)
+

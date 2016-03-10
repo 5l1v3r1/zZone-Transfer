@@ -1,0 +1,90 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns.llhc.edu.cn axfr llhc.edu.cn
+; (1 server found)
+;; global options: +cmd
+llhc.edu.cn.		3600	IN	SOA	dns.llhc.edu.cn. admin.llhc.edu.cn. 298 900 600 86400 3600
+llhc.edu.cn.		3600	IN	A	202.207.236.4
+llhc.edu.cn.		3600	IN	NS	dns.llhc.edu.cn.
+llhc.edu.cn.		3600	IN	MX	10 mail.llhc.edu.cn.
+2015.llhc.edu.cn.	3600	IN	A	202.207.236.3
+caiwu.llhc.edu.cn.	3600	IN	A	202.207.236.3
+cwc.llhc.edu.cn.	3600	IN	A	202.207.236.3
+dns.llhc.edu.cn.	3600	IN	A	202.207.236.4
+dwbgs.llhc.edu.cn.	3600	IN	A	202.207.236.3
+dzxxgcx.llhc.edu.cn.	3600	IN	A	202.207.236.3
+english.llhc.edu.cn.	3600	IN	A	202.207.236.55
+fzghc.llhc.edu.cn.	3600	IN	A	202.207.236.3
+gjjlhzc.llhc.edu.cn.	3600	IN	A	202.207.236.3
+gygl.llhc.edu.cn.	3600	IN	A	202.207.236.3
+gyglzx.llhc.edu.cn.	3600	IN	A	202.207.236.3
+gyzcc.llhc.edu.cn.	3600	IN	A	202.207.236.3
+gzgl.llhc.edu.cn.	3600	IN	A	202.207.236.5
+hqc.llhc.edu.cn.	3600	IN	A	202.207.236.3
+hqjt.llhc.edu.cn.	3600	IN	A	202.207.236.3
+hxhgx.llhc.edu.cn.	3600	IN	A	202.207.236.3
+jiliang.llhc.edu.cn.	3600	IN	A	202.207.236.3
+jjc.llhc.edu.cn.	3600	IN	A	202.207.236.3
+jjglx.llhc.edu.cn.	3600	IN	A	202.207.236.3
+jkfy.llhc.edu.cn.	3600	IN	A	202.207.236.3
+jpkc.llhc.edu.cn.	3600	IN	A	202.207.236.6
+jsgl.llhc.edu.cn.	3600	IN	A	202.207.236.3
+jsjx.llhc.edu.cn.	3600	IN	A	202.207.236.3
+jwb.llhc.edu.cn.	3600	IN	A	202.207.236.3
+jwc.llhc.edu.cn.	3600	IN	A	202.207.236.3
+jxbm.llhc.edu.cn.	3600	IN	A	202.207.236.22
+jxjyxy.llhc.edu.cn.	3600	IN	A	202.207.236.3
+jxpgzx.llhc.edu.cn.	3600	IN	A	202.207.236.3
+jyx.llhc.edu.cn.	3600	IN	A	202.207.236.3
+jzx.llhc.edu.cn.	3600	IN	A	202.207.236.3
+kjcyc.llhc.edu.cn.	3600	IN	A	202.207.236.3
+kygcx.llhc.edu.cn.	3600	IN	A	202.207.236.3
+kyxn.llhc.edu.cn.	3600	IN	A	202.207.236.3
+lswhx.llhc.edu.cn.	3600	IN	A	202.207.236.3
+ltxryglc.llhc.edu.cn.	3600	IN	A	202.207.236.3
+mail.llhc.edu.cn.	3600	IN	A	202.207.236.15
+mail.llhc.edu.cn.	3600	IN	MX	10 mail.llhc.edu.cn.
+oa.llhc.edu.cn.		3600	IN	A	192.168.228.16
+old.llhc.edu.cn.	3600	IN	A	202.207.236.30
+old1.llhc.edu.cn.	3600	IN	A	202.207.236.30
+qingniao.llhc.edu.cn.	3600	IN	A	202.207.236.3
+rsc.llhc.edu.cn.	3600	IN	A	202.207.236.3
+rsgl.llhc.edu.cn.	3600	IN	A	202.207.236.21
+rskj.llhc.edu.cn.	3600	IN	A	202.207.236.21
+sgl.llhc.edu.cn.	3600	IN	A	202.207.236.3
+sjc.llhc.edu.cn.	3600	IN	A	202.207.236.3
+smkxx.llhc.edu.cn.	3600	IN	A	202.207.236.3
+stu.llhc.edu.cn.	3600	IN	MX	10 mx1.icormail.net.
+mail.stu.llhc.edu.cn.	3600	IN	CNAME	mail1.icoremail.net.
+sxx.llhc.edu.cn.	3600	IN	A	202.207.236.3
+szb.llhc.edu.cn.	3600	IN	A	202.207.236.3
+tsg.llhc.edu.cn.	3600	IN	A	202.207.236.3
+tyx.llhc.edu.cn.	3600	IN	A	202.207.236.3
+wlx.llhc.edu.cn.	3600	IN	A	202.207.236.3
+www.llhc.edu.cn.	3600	IN	A	202.207.236.3
+wyx.llhc.edu.cn.	3600	IN	A	202.207.236.3
+wzb.llhc.edu.cn.	3600	IN	A	202.207.236.3
+xbbjb.llhc.edu.cn.	3600	IN	A	202.207.236.3
+xcb.llhc.edu.cn.	3600	IN	A	202.207.236.3
+xgh.llhc.edu.cn.	3600	IN	A	202.207.236.3
+xkxwb.llhc.edu.cn.	3600	IN	A	202.207.236.3
+xlcp.llhc.edu.cn.	3600	IN	A	202.207.236.10
+xlfz.llhc.edu.cn.	3600	IN	A	202.207.236.3
+xsgzc.llhc.edu.cn.	3600	IN	A	202.207.236.3
+xszhgl.llhc.edu.cn.	3600	IN	A	192.168.228.17
+xtw.llhc.edu.cn.	3600	IN	A	202.207.236.3
+xxgk.llhc.edu.cn.	3600	IN	A	202.207.236.3
+xxyxdjyc.llhc.edu.cn.	3600	IN	A	202.207.236.3
+xyy.llhc.edu.cn.	3600	IN	A	202.207.236.3
+ymwxj.llhc.edu.cn.	3600	IN	A	202.207.236.3
+ysx.llhc.edu.cn.	3600	IN	A	202.207.236.3
+yzbgs.llhc.edu.cn.	3600	IN	A	202.207.236.3
+zl.llhc.edu.cn.		3600	IN	A	202.207.236.245
+zsjyc.llhc.edu.cn.	3600	IN	A	202.207.236.3
+zwx.llhc.edu.cn.	3600	IN	A	202.207.236.3
+zzb.llhc.edu.cn.	3600	IN	A	202.207.236.3
+llhc.edu.cn.		3600	IN	SOA	dns.llhc.edu.cn. admin.llhc.edu.cn. 298 900 600 86400 3600
+;; Query time: 174 msec
+;; SERVER: 202.207.236.4#53(202.207.236.4)
+;; WHEN: Thu Mar 10 14:42:51 中国标准时间 2016
+;; XFR size: 81 records (messages 81, bytes 4161)
+

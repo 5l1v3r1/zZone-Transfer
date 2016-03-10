@@ -1,0 +1,110 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns.sytu.edu.cn axfr sytu.edu.cn
+; (1 server found)
+;; global options: +cmd
+sytu.edu.cn.		4320	IN	SOA	dns.sytu.edu.cn. root.sytu.edu.cn. 2014021901 3600 1800 36000 3600
+sytu.edu.cn.		172800	IN	NS	dns.sytu.edu.cn.
+sytu.edu.cn.		172800	IN	NS	dns1.sytu.edu.cn.
+sytu.edu.cn.		4320	IN	MX	0 mg.sytu.edu.cn.
+sytu.edu.cn.		4320	IN	MX	20 eyoumgw.sytu.edu.cn.
+sytu.edu.cn.		4320	IN	MX	30 ms.sytu.edu.cn.
+acc.sytu.edu.cn.	4320	IN	A	61.177.142.236
+agjy.sytu.edu.cn.	4320	IN	A	202.195.144.16
+antivirus.sytu.edu.cn.	4320	IN	A	202.195.144.99
+art.sytu.edu.cn.	4320	IN	A	202.195.144.230
+baoxian.sytu.edu.cn.	4320	IN	A	202.195.144.16
+bb.sytu.edu.cn.		4320	IN	A	202.195.144.113
+bbs.sytu.edu.cn.	4320	IN	A	202.195.144.15
+biotech.sytu.edu.cn.	4320	IN	A	202.195.144.69
+blsb.sytu.edu.cn.	4320	IN	CNAME	biotech.sytu.edu.cn.
+building.sytu.edu.cn.	4320	IN	A	202.195.144.63
+busi.sytu.edu.cn.	4320	IN	A	202.195.144.39
+caiwu.sytu.edu.cn.	4320	IN	A	202.195.144.237
+www.cc.sytu.edu.cn.	4320	IN	A	202.195.144.141
+cicim-cu.sytu.edu.cn.	4320	IN	A	202.195.144.90
+computer.sytu.edu.cn.	4320	IN	CNAME	renshi.sytu.edu.cn.
+culture.sytu.edu.cn.	4320	IN	A	202.195.144.16
+dangan.sytu.edu.cn.	4320	IN	A	202.195.144.71
+dangban.sytu.edu.cn.	4320	IN	A	202.195.144.227
+design.sytu.edu.cn.	4320	IN	A	202.195.144.140
+dns.sytu.edu.cn.	172800	IN	A	202.195.144.130
+dns1.sytu.edu.cn.	172800	IN	A	202.195.144.134
+engnet.sytu.edu.cn.	4320	IN	A	172.19.16.61
+engnetschool.sytu.edu.cn. 4320	IN	A	172.19.16.61
+eyoumgw.sytu.edu.cn.	4320	IN	A	202.195.144.100
+fangfu.sytu.edu.cn.	4320	IN	A	202.195.144.70
+fazheng.sytu.edu.cn.	4320	IN	A	202.195.144.242
+foodsci.sytu.edu.cn.	4320	IN	A	202.195.144.58
+foreign.sytu.edu.cn.	4320	IN	A	202.195.144.232
+fri.sytu.edu.cn.	4320	IN	CNAME	busi.sytu.edu.cn.
+gjjy.sytu.edu.cn.	4320	IN	CNAME	guojiaochu.sytu.edu.cn.
+gonghui.sytu.edu.cn.	4320	IN	A	202.195.144.226
+guanli.sytu.edu.cn.	4320	IN	A	202.195.144.102
+guojiaochu.sytu.edu.cn.	4320	IN	A	202.195.144.238
+hg.sytu.edu.cn.		4320	IN	A	202.195.144.231
+hqjt.sytu.edu.cn.	4320	IN	A	202.195.144.229
+huagong.sytu.edu.cn.	4320	IN	A	202.195.144.235
+icfst2007.sytu.edu.cn.	4320	IN	CNAME	foodsci.sytu.edu.cn.
+icfst2007zw.sytu.edu.cn. 4320	IN	CNAME	foodsci.sytu.edu.cn.
+intb07.sytu.edu.cn.	4320	IN	A	202.195.144.238
+iptv.sytu.edu.cn.	4320	IN	A	210.28.16.72
+it.sytu.edu.cn.		4320	IN	A	202.195.144.142
+www.it.sytu.edu.cn.	4320	IN	A	202.195.144.142
+itsr.sytu.edu.cn.	4320	IN	A	210.28.16.94
+jdxcb.sytu.edu.cn.	4320	IN	A	202.195.144.144
+jdxgc.sytu.edu.cn.	4320	IN	A	202.195.144.139
+jjjc.sytu.edu.cn.	4320	IN	A	202.195.144.16
+jpkc.sytu.edu.cn.	4320	IN	A	202.195.144.165
+jw.sytu.edu.cn.		4320	IN	A	202.195.144.106
+jwxt.sytu.edu.cn.	4320	IN	A	202.195.144.163
+jwxt1.sytu.edu.cn.	4320	IN	A	202.195.144.164
+kjc.sytu.edu.cn.	4320	IN	A	202.195.144.57
+klib.sytu.edu.cn.	4320	IN	CNAME	biotech.sytu.edu.cn.
+lib.sytu.edu.cn.	4320	IN	A	202.195.144.50
+llxx.sytu.edu.cn.	4320	IN	A	202.195.144.16
+ltxc.sytu.edu.cn.	4320	IN	A	202.195.144.226
+lzwh.sytu.edu.cn.	4320	IN	A	202.195.144.16
+mail.sytu.edu.cn.	4320	IN	CNAME	vip.sytu.edu.cn.
+mg.sytu.edu.cn.		4320	IN	A	202.195.144.99
+mgw.sytu.edu.cn.	4320	IN	A	202.195.144.100
+ml.sytu.edu.cn.		4320	IN	CNAME	ms.sytu.edu.cn.
+ms.sytu.edu.cn.		4320	IN	A	202.195.144.101
+news.sytu.edu.cn.	4320	IN	A	202.195.144.16
+oa.sytu.edu.cn.		4320	IN	A	202.195.144.20
+online.sytu.edu.cn.	4320	IN	CNAME	iptv.sytu.edu.cn.
+red.sytu.edu.cn.	4320	IN	A	202.195.144.16
+renshi.sytu.edu.cn.	4320	IN	A	202.195.144.228
+rwb.sytu.edu.cn.	4320	IN	CNAME	www.it.sytu.edu.cn.
+sbc.sytu.edu.cn.	4320	IN	A	202.195.144.40
+science.sytu.edu.cn.	4320	IN	A	202.195.144.51
+shifan.sytu.edu.cn.	4320	IN	A	202.195.144.234
+sme.sytu.edu.cn.	4320	IN	A	202.195.144.52
+sport.sytu.edu.cn.	4320	IN	A	202.195.144.236
+studyabroad.sytu.edu.cn. 4320	IN	CNAME	guojiaochu.sytu.edu.cn.
+www.thxy.sytu.edu.cn.	4320	IN	A	202.195.144.62
+tuanwei.sytu.edu.cn.	4320	IN	A	202.195.144.225
+tw.sytu.edu.cn.		4320	IN	CNAME	building.sytu.edu.cn.
+vip.sytu.edu.cn.	4320	IN	A	202.195.144.101
+wenxue.sytu.edu.cn.	4320	IN	CNAME	sport.sytu.edu.cn.
+wlxt.sytu.edu.cn.	4320	IN	A	202.195.144.239
+ftp.wlxy.sytu.edu.cn.	4320	IN	A	210.28.23.247
+www.wlxy.sytu.edu.cn.	4320	IN	A	210.28.23.248
+www.sytu.edu.cn.	4320	IN	A	202.195.144.135
+www.sytu.edu.cn.	4320	IN	AAAA	2001:da8:1010:0:202:195:144:135
+xbserver.sytu.edu.cn.	4320	IN	A	202.195.144.145
+xiaoban.sytu.edu.cn.	4320	IN	CNAME	dangan.sytu.edu.cn.
+xxq.sytu.edu.cn.	4320	IN	CNAME	www.sytu.edu.cn.
+yanjiushengchengji.sytu.edu.cn.	4320 IN	A	202.195.144.156
+yiyuan.sytu.edu.cn.	4320	IN	CNAME	gonghui.sytu.edu.cn.
+yjsb.sytu.edu.cn.	4320	IN	A	202.195.144.56
+yyxy.sytu.edu.cn.	4320	IN	A	202.195.144.54
+zcfg.sytu.edu.cn.	4320	IN	CNAME	gonghui.sytu.edu.cn.
+zs.sytu.edu.cn.		4320	IN	A	202.195.144.60
+zzb.sytu.edu.cn.	4320	IN	CNAME	dangban.sytu.edu.cn.
+zzs.sytu.edu.cn.	4320	IN	A	202.195.144.242
+sytu.edu.cn.		4320	IN	SOA	dns.sytu.edu.cn. root.sytu.edu.cn. 2014021901 3600 1800 36000 3600
+;; Query time: 227 msec
+;; SERVER: 202.195.144.130#53(202.195.144.130)
+;; WHEN: Thu Mar 10 14:44:45 中国标准时间 2016
+;; XFR size: 101 records (messages 1, bytes 2230)
+

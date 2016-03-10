@@ -1,0 +1,26 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @ns1.jxinfo.net.cn axfr jxinfo.gov.cn
+; (1 server found)
+;; global options: +cmd
+jxinfo.gov.cn.		3600	IN	SOA	ns1.jxinfo.net.cn. admin.jxinfo.net.cn. 26 900 600 86400 3600
+jxinfo.gov.cn.		3600	IN	NS	ns1.jxinfo.net.cn.
+jxinfo.gov.cn.		3600	IN	MX	10 mailgw.jxinfo.gov.cn.
+jica.jxinfo.gov.cn.	3600	IN	A	218.64.59.99
+mail.jxinfo.gov.cn.	3600	IN	A	218.64.59.124
+mailgw.jxinfo.gov.cn.	3600	IN	A	218.64.59.125
+ns.jxinfo.gov.cn.	3600	IN	CNAME	wsrv.jxinfo.gov.cn.
+ns1.jxinfo.gov.cn.	3600	IN	A	218.64.59.100
+pop3.jxinfo.gov.cn.	3600	IN	CNAME	mailgw.jxinfo.gov.cn.
+smtp.jxinfo.gov.cn.	3600	IN	CNAME	mailgw.jxinfo.gov.cn.
+stc.jxinfo.gov.cn.	3600	IN	A	218.64.59.108
+triz.jxinfo.gov.cn.	3600	IN	A	218.64.59.79
+vip.jxinfo.gov.cn.	3600	IN	A	218.64.59.77
+wanfang.jxinfo.gov.cn.	3600	IN	A	218.64.59.76
+wsrv.jxinfo.gov.cn.	3600	IN	A	218.64.59.126
+www.jxinfo.gov.cn.	3600	IN	A	218.64.59.108
+jxinfo.gov.cn.		3600	IN	SOA	ns1.jxinfo.net.cn. admin.jxinfo.net.cn. 26 900 600 86400 3600
+;; Query time: 409 msec
+;; SERVER: 218.64.59.100#53(218.64.59.100)
+;; WHEN: Thu Mar 10 15:14:40 中国标准时间 2016
+;; XFR size: 17 records (messages 17, bytes 1021)
+

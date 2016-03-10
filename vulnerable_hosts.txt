@@ -1,0 +1,56 @@
+ns1.gradwellcloud.com             scidev.net
+
+ns2.gradwellcloud.com             scidev.net
+
+ox1.ios.ac.cn                     ios.ac.cn
+
+ns.iee.ac.cn                      iee.ac.cn
+
+sns.stn.sh.cn                     stn.sh.cn
+
+dns.stn.sh.cn                     stn.sh.cn
+
+ns1.jxinfo.net.cn                 jxinfo.gov.cn
+
+ns.jsinfo.gov.cn                  jsinfo.gov.cn
+
+ns2.nbinfo.cn                     nbsti.gov.cn
+
+ns1.nbinfo.cn                     nbsti.gov.cn
+
+ns2.gdstc.gov.cn                  sti.gd.cn
+
+dns.stn.sh.cn                     stc.sh.cn
+
+sns.stn.sh.cn                     stc.sh.cn
+
+ns.shantou.net.cn                 shantou.net.cn
+
+pdns.ynst.net.cn                  istiy.yn.cn
+
+ns.jsinfo.gov.cn                  sti.js.cn
+
+ns2.jccbank.com.cn                jccbank.com.cn
+
+ns3.jccbank.com.cn                jccbank.com.cn
+
+ns2.jccbank.com.cn                jccbank.com.cn
+
+ns1.jccbank.com.cn                jccbank.com.cn
+
+ct.cbrc.gov.cn                    cbrc.gov.cn
+
+cnc.cbrc.gov.cn                   cbrc.gov.cn
+
+ns7.dns.net.cn                    china-cba.net
+
+ns.dns.net.cn                     china-cba.net
+
+ns1.prdcity.com                   dgrcc.com
+
+ns2.prdcity.com                   dgrcc.com
+
+dns.ce.cn                         ce.cn
+
+ns3.ce.cn                         ce.cn
+

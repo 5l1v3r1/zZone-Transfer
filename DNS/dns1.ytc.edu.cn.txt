@@ -1,0 +1,27 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns1.ytc.edu.cn axfr ytc.edu.cn
+; (1 server found)
+;; global options: +cmd
+ytc.edu.cn.		3600	IN	SOA	dns1.ytc.edu.cn. 16312821.qq.com. 2014072102 30 30 360 3600
+ytc.edu.cn.		3600	IN	A	222.193.112.67
+ytc.edu.cn.		3600	IN	NS	dns1.ytc.edu.cn.
+ytc.edu.cn.		3600	IN	NS	dns2.ytc.edu.cn.
+ytc.edu.cn.		3600	IN	MX	10 mail.ytc.edu.cn.
+dns1.ytc.edu.cn.	3600	IN	A	222.193.112.1
+dns2.ytc.edu.cn.	3600	IN	A	222.193.112.2
+jw.ytc.edu.cn.		3600	IN	A	222.193.112.66
+mail.ytc.edu.cn.	3600	IN	A	222.193.112.67
+ntp.ytc.edu.cn.		3600	IN	A	222.193.112.68
+stu.ytc.edu.cn.		3600	IN	A	222.193.112.71
+wsapp.ytc.edu.cn.	3600	IN	A	222.193.112.80
+wsim.ytc.edu.cn.	3600	IN	A	222.193.112.79
+wsms.ytc.edu.cn.	3600	IN	A	222.193.112.78
+www.ytc.edu.cn.		3600	IN	A	222.193.112.63
+www2.ytc.edu.cn.	3600	IN	A	222.193.112.62
+xsgl.ytc.edu.cn.	3600	IN	A	222.193.112.71
+ytc.edu.cn.		3600	IN	SOA	dns1.ytc.edu.cn. 16312821.qq.com. 2014072102 30 30 360 3600
+;; Query time: 33 msec
+;; SERVER: 222.193.112.1#53(222.193.112.1)
+;; WHEN: Thu Mar 10 14:58:47 中国标准时间 2016
+;; XFR size: 18 records (messages 1, bytes 423)
+

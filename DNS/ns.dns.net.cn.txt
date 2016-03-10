@@ -1,0 +1,25 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @ns.dns.net.cn axfr china-cba.net
+; (1 server found)
+;; global options: +cmd
+china-cba.net.		3600	IN	SOA	ns.dns.net.cn. admin.dns.net.cn. 274 900 600 86400 3600
+china-cba.net.		3600	IN	NS	ns.dns.net.cn.
+china-cba.net.		3600	IN	NS	ns7.dns.net.cn.
+china-cba.net.		3600	IN	MX	10 mail.china-cba.net.
+blog.china-cba.net.	3600	IN	CNAME	e5b0841b9efefbf9.360safedns.com.
+dj.china-cba.net.	3600	IN	CNAME	e0e9568280ad81f2.360safedns.com.
+exam.china-cba.net.	3600	IN	CNAME	8ac1a594e9d82476.360safedns.com.
+exam001.china-cba.net.	3600	IN	CNAME	vip.sojump.com.
+huzhu.china-cba.net.	3600	IN	A	106.3.38.66
+mail.china-cba.net.	3600	IN	A	106.3.38.68
+mail2.china-cba.net.	3600	IN	A	106.3.38.68
+oa.china-cba.net.	3600	IN	A	106.37.172.4
+tees.china-cba.net.	3600	IN	CNAME	64b6c36ea46024e7.360safedns.com.
+training.china-cba.net.	3600	IN	A	211.151.179.79
+www.china-cba.net.	3600	IN	CNAME	cbb43649fc678d51.360safedns.com.
+china-cba.net.		3600	IN	SOA	ns.dns.net.cn. admin.dns.net.cn. 274 900 600 86400 3600
+;; Query time: 220 msec
+;; SERVER: 61.135.129.2#53(61.135.129.2)
+;; WHEN: Thu Mar 10 16:03:13 中国标准时间 2016
+;; XFR size: 16 records (messages 16, bytes 1094)
+

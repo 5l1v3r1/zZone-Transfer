@@ -1,0 +1,43 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @ns2.lncc.edu.cn axfr lncc.edu.cn
+; (1 server found)
+;; global options: +cmd
+lncc.edu.cn.		86400	IN	SOA	ns.lncc.edu.cn. cw.lncc.edu.cn. 2016022401 10800 900 604800 86400
+lncc.edu.cn.		86400	IN	MX	5 mxhm.qiye.163.com.
+lncc.edu.cn.		86400	IN	NS	ns.lncc.edu.cn.
+lncc.edu.cn.		86400	IN	NS	ns2.lncc.edu.cn.
+lncc.edu.cn.		86400	IN	TXT	"v=spf1 include:spf.163.com -all"
+_dmarc.lncc.edu.cn.	86400	IN	TXT	"v=DMARC1\; p=none\; fo=1\; ruf=mailto:dmarc@qiye.163.com\;  rua=mailto:dmarc_report@qiye.163.com"
+book.lncc.edu.cn.	86400	IN	A	202.199.184.161
+branch.lncc.edu.cn.	86400	IN	A	202.199.184.11
+dnscache1.lncc.edu.cn.	86400	IN	A	202.199.184.3
+dnscache2.lncc.edu.cn.	86400	IN	A	202.199.184.4
+dq.lncc.edu.cn.		86400	IN	A	202.199.184.19
+ebook.lncc.edu.cn.	86400	IN	A	202.199.184.153
+imap.lncc.edu.cn.	86400	IN	CNAME	imaphm.qiye.163.com.
+jpk.lncc.edu.cn.	86400	IN	A	202.199.184.10
+jtbz.lncc.edu.cn.	86400	IN	A	202.199.184.130
+jxjy.lncc.edu.cn.	86400	IN	A	202.199.184.18
+jy.lncc.edu.cn.		86400	IN	A	202.199.184.16
+lib.lncc.edu.cn.	86400	IN	A	202.199.184.154
+lnjzpxzx.lncc.edu.cn.	86400	IN	A	202.199.184.17
+mail.lncc.edu.cn.	86400	IN	CNAME	mailhz.qiye.163.com.
+ns.lncc.edu.cn.		86400	IN	A	202.199.184.1
+ns2.lncc.edu.cn.	86400	IN	A	202.199.184.2
+oa.lncc.edu.cn.		86400	IN	A	202.199.184.9
+pop.lncc.edu.cn.	86400	IN	CNAME	pophm.qiye.163.com.
+smtp.lncc.edu.cn.	86400	IN	CNAME	smtphm.qiye.163.com.
+tgwgzfh.lncc.edu.cn.	86400	IN	A	202.199.184.131
+tsg.lncc.edu.cn.	86400	IN	A	202.199.184.129
+video.lncc.edu.cn.	86400	IN	A	202.199.184.20
+vpn.lncc.edu.cn.	86400	IN	A	59.46.66.56
+www.lncc.edu.cn.	86400	IN	A	202.199.184.12
+wyjf.lncc.edu.cn.	86400	IN	A	202.199.184.21
+xq60.lncc.edu.cn.	86400	IN	A	202.199.184.13
+zsjy.lncc.edu.cn.	86400	IN	A	202.199.184.15
+lncc.edu.cn.		86400	IN	SOA	ns.lncc.edu.cn. cw.lncc.edu.cn. 2016022401 10800 900 604800 86400
+;; Query time: 149 msec
+;; SERVER: 202.199.184.2#53(202.199.184.2)
+;; WHEN: Thu Mar 10 14:43:50 中国标准时间 2016
+;; XFR size: 34 records (messages 1, bytes 913)
+

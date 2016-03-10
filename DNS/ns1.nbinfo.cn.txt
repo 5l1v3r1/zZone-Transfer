@@ -1,0 +1,64 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @ns1.nbinfo.cn axfr nbsti.gov.cn
+; (1 server found)
+;; global options: +cmd
+nbsti.gov.cn.		3600	IN	SOA	idc-nsserver. hostmaster. 102 900 600 86400 3600
+nbsti.gov.cn.		3600	IN	A	172.16.0.77
+nbsti.gov.cn.		3600	IN	NS	ns1.nbinfo.cn.
+nbsti.gov.cn.		3600	IN	NS	ns2.nbinfo.cn.
+nbsti.gov.cn.		3600	IN	MX	20 mail.nbsti.gov.cn.
+ns1.nbinfo.cn.		3600	IN	A	202.107.211.1
+ns2.nbinfo.cn.		3600	IN	A	60.12.30.2
+3g.nbsti.gov.cn.	3600	IN	A	172.16.0.83
+_sip._tls.nbsti.gov.cn.	3600	IN	SRV	0 0 443 sip.nbsi.gov.cn.
+acount.nbsti.gov.cn.	3600	IN	A	172.16.0.85
+autodiscover.nbsti.gov.cn. 3600	IN	A	172.16.0.106
+big5.nbsti.gov.cn.	3600	IN	A	172.16.0.83
+cloud.nbsti.gov.cn.	3600	IN	A	172.16.0.108
+cloudadmin.nbsti.gov.cn. 3600	IN	A	172.16.0.108
+cx.nbsti.gov.cn.	3600	IN	A	172.16.0.85
+demo.nbsti.gov.cn.	3600	IN	A	172.16.0.85
+dialin.nbsti.gov.cn.	3600	IN	A	172.16.0.105
+dzc.nbsti.gov.cn.	3600	IN	A	172.16.0.83
+dzj.nbsti.gov.cn.	3600	IN	A	172.16.0.83
+english.nbsti.gov.cn.	3600	IN	A	172.16.0.83
+ex.nbsti.gov.cn.	3600	IN	A	172.16.0.106
+expert.nbsti.gov.cn.	3600	IN	A	172.16.0.85
+idc-ca.nbsti.gov.cn.	3600	IN	A	172.16.0.105
+idc-lyncfe01.nbsti.gov.cn. 3600	IN	A	172.16.0.105
+idc-owa.nbsti.gov.cn.	3600	IN	A	172.16.0.105
+idc-rdwa.nbsti.gov.cn.	3600	IN	A	172.16.0.107
+idc-wapadmin.nbsti.gov.cn. 3600	IN	A	172.16.0.108
+intra.nbsti.gov.cn.	3600	IN	A	172.16.0.83
+kjjl.nbsti.gov.cn.	3600	IN	A	172.16.0.85
+login.nbsti.gov.cn.	3600	IN	A	172.16.0.85
+lyncdiscover.nbsti.gov.cn. 3600	IN	A	172.16.0.105
+mail.nbsti.gov.cn.	3600	IN	A	172.16.0.106
+media.nbsti.gov.cn.	3600	IN	A	172.16.0.72
+meet.nbsti.gov.cn.	3600	IN	A	172.16.0.105
+mse.nbsti.gov.cn.	3600	IN	A	172.16.0.85
+new.nbsti.gov.cn.	3600	IN	A	172.16.0.35
+oldmail.nbsti.gov.cn.	3600	IN	A	172.16.0.77
+passport.nbsti.gov.cn.	3600	IN	A	172.16.0.85
+patent.nbsti.gov.cn.	3600	IN	A	202.107.211.95
+rdweb.nbsti.gov.cn.	3600	IN	A	172.16.0.107
+signup.nbsti.gov.cn.	3600	IN	A	172.16.0.85
+sip.nbsti.gov.cn.	3600	IN	A	172.16.0.105
+sso.nbsti.gov.cn.	3600	IN	A	202.107.211.95
+stat.nbsti.gov.cn.	3600	IN	A	172.16.0.38
+vod.nbsti.gov.cn.	3600	IN	A	172.16.0.72
+vpn.nbsti.gov.cn.	3600	IN	A	172.16.0.126
+vpn1.nbsti.gov.cn.	3600	IN	A	172.16.0.216
+vpn2.nbsti.gov.cn.	3600	IN	A	172.16.0.217
+wapadmin.nbsti.gov.cn.	3600	IN	A	172.16.0.108
+waptenant.nbsti.gov.cn.	3600	IN	A	172.16.0.108
+www.nbsti.gov.cn.	3600	IN	A	172.16.0.83
+xmsb.nbsti.gov.cn.	3600	IN	A	172.16.0.85
+xskjtj.nbsti.gov.cn.	3600	IN	A	172.16.0.85
+zhsps.nbsti.gov.cn.	3600	IN	A	172.16.0.37
+nbsti.gov.cn.		3600	IN	SOA	idc-nsserver. hostmaster. 102 900 600 86400 3600
+;; Query time: 41 msec
+;; SERVER: 202.107.211.1#53(202.107.211.1)
+;; WHEN: Thu Mar 10 15:14:45 中国标准时间 2016
+;; XFR size: 55 records (messages 1, bytes 1386)
+

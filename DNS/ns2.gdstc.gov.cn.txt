@@ -1,0 +1,198 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @ns2.gdstc.gov.cn axfr sti.gd.cn
+; (1 server found)
+;; global options: +cmd
+sti.gd.cn.		600	IN	SOA	ns.gdsti.net. postmaster.ns.gdsti.net. 2008012158 600 180 900 600
+sti.gd.cn.		600	IN	A	210.75.48.15
+sti.gd.cn.		600	IN	MX	10 210.75.48.15.
+sti.gd.cn.		600	IN	NS	ns.gdstc.gov.cn.
+sti.gd.cn.		600	IN	NS	ns1.sti.gd.cn.
+sti.gd.cn.		600	IN	NS	ns1.gdstc.gov.cn.
+sti.gd.cn.		600	IN	NS	ns2.gdstc.gov.cn.
+adm.sti.gd.cn.		600	IN	A	210.75.48.16
+admin.sti.gd.cn.	600	IN	A	211.155.223.66
+admin1.sti.gd.cn.	600	IN	A	211.155.223.68
+admin2.sti.gd.cn.	600	IN	A	211.155.223.69
+asean.sti.gd.cn.	600	IN	A	211.155.223.98
+auth.sti.gd.cn.		600	IN	A	210.75.55.165
+baode1.sti.gd.cn.	600	IN	MX	10 10.1.1.22.
+mail.baode1.sti.gd.cn.	600	IN	A	210.75.48.30
+beian.sti.gd.cn.	600	IN	A	210.75.48.105
+beian2.sti.gd.cn.	600	IN	A	210.75.48.105
+cd.sti.gd.cn.		600	IN	A	210.75.48.107
+dbhost.sti.gd.cn.	600	IN	A	211.147.224.86
+dev.sti.gd.cn.		600	IN	A	211.155.222.72
+disktop.sti.gd.cn.	600	IN	A	211.155.222.170
+dnew20.sti.gd.cn.	600	IN	A	210.75.48.96
+dnew21.sti.gd.cn.	600	IN	A	210.75.48.25
+dnew22.sti.gd.cn.	600	IN	A	210.75.48.29
+dnew23.sti.gd.cn.	600	IN	A	210.75.48.24
+dnews21.sti.gd.cn.	600	IN	A	211.147.224.85
+dnews21a.sti.gd.cn.	600	IN	A	210.75.48.26
+dnews21b.sti.gd.cn.	600	IN	A	211.147.224.85
+dnewsold.sti.gd.cn.	600	IN	A	210.75.48.24
+adm.dy.sti.gd.cn.	600	IN	A	210.75.48.106
+www.dy.sti.gd.cn.	600	IN	A	210.75.48.106
+egw.sti.gd.cn.		600	IN	A	210.75.48.15
+eyou.sti.gd.cn.		600	IN	MX	10 210.75.48.14.
+eyou.sti.gd.cn.		600	IN	A	210.75.48.15
+faq.sti.gd.cn.		600	IN	A	210.75.48.25
+filter.sti.gd.cn.	600	IN	A	210.75.48.14
+fin.sti.gd.cn.		600	IN	A	210.75.48.98
+foshan.sti.gd.cn.	600	IN	NS	ns.foshan.sti.gd.cn.
+ns.foshan.sti.gd.cn.	600	IN	A	210.14.241.181
+fsise2003.sti.gd.cn.	600	IN	A	211.147.224.27
+www.gaozhou.sti.gd.cn.	600	IN	CNAME	www.gzkjj.gov.cn.
+gdonline.sti.gd.cn.	600	IN	A	211.147.224.27
+gdonline.sti.gd.cn.	600	IN	A	211.147.224.29
+gdsti-a1.sti.gd.cn.	600	IN	CNAME	gdsti-db2.sti.gd.cn.
+gdsti-a30.sti.gd.cn.	600	IN	A	211.155.217.102
+gdsti-a4.sti.gd.cn.	600	IN	A	210.75.48.2
+gdsti-a5.sti.gd.cn.	600	IN	A	210.75.48.3
+gdsti-as.sti.gd.cn.	600	IN	A	210.75.48.7
+gdsti-as-inside.sti.gd.cn. 600	IN	A	10.1.1.7
+gdsti-db1.sti.gd.cn.	600	IN	A	210.75.48.15
+gdsti-db2.sti.gd.cn.	600	IN	A	210.75.48.16
+gdsti-ms.sti.gd.cn.	600	IN	A	210.75.48.15
+gdsti-ms1.sti.gd.cn.	600	IN	A	210.75.48.15
+gdsti-ms2.sti.gd.cn.	600	IN	A	210.75.48.15
+mail.gdsti-ms2.sti.gd.cn. 600	IN	A	210.75.48.13
+gdsti-r0.sti.gd.cn.	600	IN	HINFO	"cisco 7500" "IOS"
+gdsti-r1.sti.gd.cn.	600	IN	A	210.75.33.1
+gdsti-r1.sti.gd.cn.	600	IN	HINFO	"cisco 2511" "IOS"
+gdsti-r2.sti.gd.cn.	600	IN	A	210.75.33.2
+gdsti-r2.sti.gd.cn.	600	IN	HINFO	"cisco 2511" "IOS"
+gdsti-r3.sti.gd.cn.	600	IN	A	210.75.32.62
+gdsti-r3.sti.gd.cn.	600	IN	A	210.75.33.3
+gdsti-r3.sti.gd.cn.	600	IN	A	210.75.57.242
+gdsti-r3.sti.gd.cn.	600	IN	HINFO	"cisco 7000" "IOS"
+gdsti-r4.sti.gd.cn.	600	IN	A	210.75.33.4
+gdsti-r4.sti.gd.cn.	600	IN	HINFO	"cisco 2511" "IOS"
+gdsti-r5.sti.gd.cn.	600	IN	A	210.75.33.5
+gdsti-r5.sti.gd.cn.	600	IN	HINFO	"cisco 2511" "IOS"
+gdsti-r6.sti.gd.cn.	600	IN	A	210.75.33.6
+gdsti-r7.sti.gd.cn.	600	IN	A	210.75.33.7
+gdsti-r7.sti.gd.cn.	600	IN	HINFO	"cisco 2514" "IOS"
+gdsti-r8.sti.gd.cn.	600	IN	A	210.75.33.8
+gdsti-r8.sti.gd.cn.	600	IN	HINFO	"cisco 2514" "IOS"
+gdsti-s1.sti.gd.cn.	600	IN	A	210.75.32.61
+gdsti-s1.sti.gd.cn.	600	IN	HINFO	"cisco 5500" "IOS"
+gdsti-s2.sti.gd.cn.	600	IN	A	210.75.33.84
+gdsti-s2.sti.gd.cn.	600	IN	HINFO	"cisco 1924" "IOS"
+gdsti-s3.sti.gd.cn.	600	IN	A	210.75.33.102
+gdsti-s3.sti.gd.cn.	600	IN	HINFO	"cisco 1924" "IOS"
+gdsti-s4.sti.gd.cn.	600	IN	A	210.75.33.103
+gdsti-s4.sti.gd.cn.	600	IN	HINFO	"cisco 1924" "IOS"
+gdsti-vh.sti.gd.cn.	600	IN	A	211.147.224.27
+gdsti-vh1.sti.gd.cn.	600	IN	A	211.147.224.27
+gdsti-vh2.sti.gd.cn.	600	IN	A	210.75.48.13
+gdsti-wm.sti.gd.cn.	600	IN	A	211.155.223.92
+gdsti-ws.sti.gd.cn.	600	IN	A	210.75.48.8
+gdtif.sti.gd.cn.	600	IN	A	210.75.48.103
+gis.sti.gd.cn.		600	IN	NS	gdsti-b2.gis.sti.gd.cn.
+gdsti-b2.gis.sti.gd.cn.	600	IN	A	210.75.52.16
+gzlw.sti.gd.cn.		600	IN	NS	lwweb.gzlw.sti.gd.cn.
+lwweb.gzlw.sti.gd.cn.	600	IN	A	202.103.134.113
+host01.sti.gd.cn.	600	IN	A	211.155.222.75
+host03.sti.gd.cn.	600	IN	A	211.155.222.75
+wap.hy.sti.gd.cn.	600	IN	A	211.147.224.23
+www.hy.sti.gd.cn.	600	IN	A	211.147.224.27
+www.hz.sti.gd.cn.	600	IN	A	211.147.224.27
+imap.sti.gd.cn.		600	IN	A	210.75.48.14
+inf.sti.gd.cn.		600	IN	A	210.75.48.15
+institute.sti.gd.cn.	600	IN	A	210.75.48.8
+iwi.sti.gd.cn.		600	IN	MX	10 211.147.224.27.
+mail.iwi.sti.gd.cn.	600	IN	A	211.147.224.27
+kjjd.sti.gd.cn.		600	IN	A	210.75.48.25
+kjxm.sti.gd.cn.		600	IN	A	210.75.48.33
+lufeng.sti.gd.cn.	600	IN	MX	10 mvfg1.sti.gd.cn.
+mail.lufeng.sti.gd.cn.	600	IN	A	210.75.48.13
+www.lufeng.sti.gd.cn.	600	IN	A	211.147.224.27
+mail.sti.gd.cn.		600	IN	A	210.75.48.14
+market.sti.gd.cn.	600	IN	A	211.147.224.27
+med.sti.gd.cn.		600	IN	A	211.155.218.76
+pcnt.med.sti.gd.cn.	600	IN	A	210.75.51.129
+sgi200.med.sti.gd.cn.	600	IN	A	210.75.51.129
+www.med.sti.gd.cn.	600	IN	A	210.75.51.136
+mrtg.sti.gd.cn.		600	IN	A	210.75.48.17
+mvfg.sti.gd.cn.		600	IN	A	210.75.48.22
+mvfg1.sti.gd.cn.	600	IN	A	210.75.48.15
+mx.sti.gd.cn.		600	IN	A	210.75.48.11
+mx1.sti.gd.cn.		600	IN	MX	15 210.75.48.15.sti.gd.cn.
+mx1.sti.gd.cn.		600	IN	A	210.75.48.15
+mx13.sti.gd.cn.		600	IN	A	210.75.48.13
+mx2.sti.gd.cn.		600	IN	MX	20 210.75.48.15.sti.gd.cn.
+mx2.sti.gd.cn.		600	IN	A	210.75.48.15
+mx3.sti.gd.cn.		600	IN	A	211.155.223.76
+mz.sti.gd.cn.		600	IN	A	211.96.181.163
+mz.sti.gd.cn.		600	IN	MX	10 mail.mz.sti.gd.cn.
+mail.mz.sti.gd.cn.	600	IN	A	211.96.181.163
+sparc.mz.sti.gd.cn.	600	IN	A	211.96.181.163
+www.mz.sti.gd.cn.	600	IN	A	58.253.195.3
+nat-1.sti.gd.cn.	600	IN	A	211.155.217.103
+nat-2.sti.gd.cn.	600	IN	A	211.155.217.104
+nat-3.sti.gd.cn.	600	IN	A	211.155.217.105
+news.sti.gd.cn.		600	IN	A	210.75.48.25
+ns.sti.gd.cn.		600	IN	A	210.75.48.2
+ns1.sti.gd.cn.		600	IN	A	210.75.48.3
+pii.sti.gd.cn.		600	IN	A	211.155.222.160
+pop3.sti.gd.cn.		600	IN	A	210.75.48.14
+rateng.sti.gd.cn.	600	IN	A	211.155.222.70
+ratengtest.sti.gd.cn.	600	IN	A	211.155.222.70
+rnd.sti.gd.cn.		600	IN	A	210.75.48.98
+rvf.sti.gd.cn.		600	IN	A	211.147.224.27
+scau.sti.gd.cn.		600	IN	A	210.75.48.103
+screendisplay.sti.gd.cn. 600	IN	A	210.75.48.25
+scten.sti.gd.cn.	600	IN	A	210.75.48.112
+www.shanwei.sti.gd.cn.	600	IN	CNAME	wwww.sti.gd.cn.
+shanyou.sti.gd.cn.	600	IN	A	211.147.224.27
+smtp.sti.gd.cn.		600	IN	A	210.75.48.14
+stis.sti.gd.cn.		600	IN	A	210.75.48.114
+test.sti.gd.cn.		600	IN	A	210.75.48.15
+testias.sti.gd.cn.	600	IN	A	211.155.222.75
+testias1.sti.gd.cn.	600	IN	A	211.155.222.75
+testias2.sti.gd.cn.	600	IN	A	211.155.222.75
+tomcat.sti.gd.cn.	600	IN	A	210.75.48.24
+toto.sti.gd.cn.		600	IN	A	210.75.48.25
+trend.sti.gd.cn.	600	IN	A	210.75.48.22
+ultra450.sti.gd.cn.	600	IN	A	210.75.48.30
+vax.sti.gd.cn.		600	IN	A	211.155.223.87
+vax4.sti.gd.cn.		600	IN	A	211.155.223.87
+vax87.sti.gd.cn.	600	IN	A	211.155.223.87
+vip.sti.gd.cn.		600	IN	A	210.75.49.5
+w3h.sti.gd.cn.		600	IN	A	210.75.48.96
+web.sti.gd.cn.		600	IN	A	210.75.48.8
+webcache.sti.gd.cn.	600	IN	A	211.155.223.97
+webmail.sti.gd.cn.	600	IN	A	211.155.223.92
+weng.sti.gd.cn.		600	IN	A	211.155.222.160
+weng1.sti.gd.cn.	600	IN	A	210.75.48.94
+weng2.sti.gd.cn.	600	IN	A	211.155.223.126
+wm.sti.gd.cn.		600	IN	A	211.155.223.92
+work.sti.gd.cn.		600	IN	A	211.147.224.27
+wskj.sti.gd.cn.		600	IN	A	210.75.63.195
+www.wskj.sti.gd.cn.	600	IN	A	210.75.63.195
+wwb.sti.gd.cn.		600	IN	A	210.75.55.151
+www.sti.gd.cn.		600	IN	A	210.75.48.50
+www1.sti.gd.cn.		600	IN	A	210.75.48.25
+www2.sti.gd.cn.		600	IN	A	210.75.48.8
+www3.sti.gd.cn.		600	IN	A	210.75.48.26
+wwww.sti.gd.cn.		600	IN	A	210.75.48.103
+www.yc.sti.gd.cn.	600	IN	A	210.75.48.106
+yf.sti.gd.cn.		600	IN	A	210.75.48.106
+yf.sti.gd.cn.		600	IN	MX	10 mvfg1.sti.gd.cn.
+mail.yf.sti.gd.cn.	600	IN	A	210.75.48.13
+www.yf.sti.gd.cn.	600	IN	A	210.75.48.106
+ynkj.sti.gd.cn.		600	IN	A	210.75.48.106
+zckj.sti.gd.cn.		600	IN	A	211.147.224.27
+zhuhai.sti.gd.cn.	600	IN	A	211.155.222.74
+zhuhai1.sti.gd.cn.	600	IN	A	211.155.222.74
+zhuhai2.sti.gd.cn.	600	IN	A	211.155.222.74
+zjyq.sti.gd.cn.		600	IN	A	210.75.61.198
+mail.zjyq.sti.gd.cn.	600	IN	A	210.75.61.198
+www.zjyq.sti.gd.cn.	600	IN	A	210.75.61.198
+sti.gd.cn.		600	IN	SOA	ns.gdsti.net. postmaster.ns.gdsti.net. 2008012158 600 180 900 600
+;; Query time: 238 msec
+;; SERVER: 58.248.9.13#53(58.248.9.13)
+;; WHEN: Thu Mar 10 15:15:12 中国标准时间 2016
+;; XFR size: 189 records (messages 1, bytes 4370)
+

@@ -1,0 +1,34 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns1.tyustjc.edu.cn axfr tyustjc.edu.cn
+; (1 server found)
+;; global options: +cmd
+tyustjc.edu.cn.		3600	IN	SOA	dns1.tyustjc.edu.cn. root.tyustjc.edu.cn. 2015120806 30 30 360 3600
+tyustjc.edu.cn.		3600	IN	MX	0 mail.tyustjc.edu.cn.
+tyustjc.edu.cn.		3600	IN	NS	dns1.tyustjc.edu.cn.
+tyustjc.edu.cn.		3600	IN	NS	dns2.tyustjc.edu.cn.
+cl.tyustjc.edu.cn.	3600	IN	A	42.247.7.211
+dns1.tyustjc.edu.cn.	3600	IN	A	42.247.7.209
+dns2.tyustjc.edu.cn.	3600	IN	A	42.247.7.210
+dz.tyustjc.edu.cn.	3600	IN	A	42.247.7.211
+english.tyustjc.edu.cn.	3600	IN	A	42.247.4.211
+hj.tyustjc.edu.cn.	3600	IN	A	42.247.7.211
+hxgc.tyustjc.edu.cn.	3600	IN	A	42.247.7.211
+jcb.tyustjc.edu.cn.	3600	IN	A	42.247.7.211
+jgx.tyustjc.edu.cn.	3600	IN	A	42.247.7.211
+jjb.tyustjc.edu.cn.	3600	IN	A	42.247.7.211
+jsjkx.tyustjc.edu.cn.	3600	IN	A	42.247.7.211
+jtywl.tyustjc.edu.cn.	3600	IN	A	42.247.7.211
+jwb.tyustjc.edu.cn.	3600	IN	A	42.247.7.211
+mail.tyustjc.edu.cn.	3600	IN	A	42.247.7.212
+tsxx.tyustjc.edu.cn.	3600	IN	A	42.247.7.211
+www.tyustjc.edu.cn.	3600	IN	A	42.247.7.211
+xgb.tyustjc.edu.cn.	3600	IN	A	42.247.7.211
+zccwb.tyustjc.edu.cn.	3600	IN	A	42.247.7.211
+zhb.tyustjc.edu.cn.	3600	IN	A	42.247.7.211
+zwb.tyustjc.edu.cn.	3600	IN	A	42.247.7.211
+tyustjc.edu.cn.		3600	IN	SOA	dns1.tyustjc.edu.cn. root.tyustjc.edu.cn. 2015120806 30 30 360 3600
+;; Query time: 163 msec
+;; SERVER: 42.247.7.209#53(42.247.7.209)
+;; WHEN: Thu Mar 10 14:43:28 中国标准时间 2016
+;; XFR size: 25 records (messages 1, bytes 565)
+
