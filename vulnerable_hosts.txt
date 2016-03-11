@@ -178,3 +178,7 @@ ns1.pacific.net.hk                np360.com.hk
 
 ns2.pacific.net.hk                np360.com.hk
 
+ns1.usinter.net                   mainichi.com
+
+ns2.bernama.com                   bernama.com
+

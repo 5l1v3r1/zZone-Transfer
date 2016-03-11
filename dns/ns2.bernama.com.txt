@@ -1,0 +1,115 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @ns2.bernama.com axfr bernama.com
+; (1 server found)
+;; global options: +cmd
+bernama.com.		38400	IN	SOA	ns.bernama.com. dnsadmin.bernama.com. 2013051045 3600 900 2419200 3600
+bernama.com.		38400	IN	NS	ns.bernama.com.
+bernama.com.		38400	IN	NS	ns2.bernama.com.
+bernama.com.		38400	IN	A	58.26.44.8
+bernama.com.		38400	IN	MX	10 mail.bernama.com.
+bernama.com.		38400	IN	MX	15 imail.bernama.com.
+bernama.com.		38400	IN	MX	20 mail2.bernama.com.
+#.bernama.com.		38400	IN	A	58.26.44.28
+#images.bernama.com.	38400	IN	A	202.75.136.3
+#images.bernama.com.	38400	IN	A	202.188.124.41
+#newslinkiv.bernama.com. 38400	IN	A	202.75.136.13
+#newswire.bernama.com.	38400	IN	A	202.75.136.13
+akrab.bernama.com.	38400	IN	A	202.188.124.45
+asean2015.bernama.com.	38400	IN	A	202.188.124.45
+auto.bernama.com.	38400	IN	A	202.188.124.45
+aviation.bernama.com.	38400	IN	A	202.188.124.45
+banci2010.bernama.com.	38400	IN	A	202.188.124.45
+bbl2.bernama.com.	38400	IN	A	211.25.238.22
+best.bernama.com.	38400	IN	A	202.188.124.59
+best2.bernama.com.	38400	IN	A	202.75.136.6
+best3.bernama.com.	38400	IN	A	58.26.44.30
+blis.bernama.com.	38400	IN	A	58.26.44.29
+blis.bernama.com.	38400	IN	A	202.75.136.4
+blis.bernama.com.	38400	IN	A	202.188.124.37
+websearch.blis.bernama.com. 38400 IN	A	202.188.124.52
+blis2.bernama.com.	38400	IN	A	202.188.124.38
+blisadm.bernama.com.	38400	IN	A	202.75.136.4
+blisadm.bernama.com.	38400	IN	A	202.188.124.37
+blisadm2.bernama.com.	38400	IN	A	202.188.124.38
+bpa.bernama.com.	38400	IN	A	202.188.124.45
+celebrities.bernama.com. 38400	IN	A	202.188.124.45
+classifieds.bernama.com. 38400	IN	A	202.188.124.45
+ebiz.bernama.com.	38400	IN	A	202.188.124.45
+education.bernama.com.	38400	IN	A	202.188.124.45
+einfolibnews.bernama.com. 38400	IN	A	202.188.124.40
+eternaleyewear.bernama.com. 38400 IN	A	202.188.124.43
+fama.bernama.com.	38400	IN	A	202.188.124.45
+finance.bernama.com.	38400	IN	A	202.188.124.45
+foto.bernama.com.	38400	IN	A	202.188.124.41
+ftp.bernama.com.	38400	IN	A	202.188.124.62
+greaterkl.bernama.com.	38400	IN	A	202.188.124.45
+halal.bernama.com.	38400	IN	A	202.188.124.45
+helpdesk.bernama.com.	38400	IN	A	121.120.80.167
+hotseats.bernama.com.	38400	IN	A	202.188.124.45
+htv.bernama.com.	38400	IN	A	202.188.124.45
+ict.bernama.com.	38400	IN	A	202.75.136.8
+images.bernama.com.	38400	IN	A	202.188.124.42
+imail.bernama.com.	38400	IN	A	58.26.44.19
+infolib.bernama.com.	38400	IN	A	202.188.124.51
+infolibnews.bernama.com. 38400	IN	A	202.188.124.56
+iptv.bernama.com.	38400	IN	A	58.26.44.17
+iwk.bernama.com.	38400	IN	A	202.188.124.45
+kbbm.bernama.com.	38400	IN	A	202.188.124.45
+kbs.bernama.com.	38400	IN	A	202.188.124.45
+kkb.bernama.com.	38400	IN	A	202.75.136.8
+kklw.bernama.com.	38400	IN	A	202.188.124.45
+kpdnkk.bernama.com.	38400	IN	A	202.188.124.45
+kpwkm.bernama.com.	38400	IN	A	202.188.124.45
+latihan.bernama.com.	38400	IN	A	202.75.136.8
+lbtest.bernama.com.	38400	IN	A	58.26.44.14
+lbtest.bernama.com.	38400	IN	A	202.184.204.12
+lbtest.bernama.com.	38400	IN	A	202.188.124.54
+m.bernama.com.		38400	IN	A	202.188.124.45
+mail.bernama.com.	38400	IN	A	202.188.124.50
+mail2.bernama.com.	38400	IN	A	202.188.124.53
+mandarin.bernama.com.	38400	IN	A	202.188.124.46
+mapo.bernama.com.	38400	IN	A	202.188.124.45
+maritime.bernama.com.	38400	IN	A	202.188.124.45
+matrade.bernama.com.	38400	IN	A	202.188.124.45
+merdeka2013.bernama.com. 38400	IN	A	202.188.124.45
+millenium.bernama.com.	38400	IN	A	202.188.124.60
+mobile.bernama.com.	38400	IN	A	202.188.124.45
+mobileapp.bernama.com.	38400	IN	A	58.26.44.24
+mrem.bernama.com.	38400	IN	A	202.188.124.47
+mrembm.bernama.com.	38400	IN	A	202.188.124.47
+n6.bernama.com.		38400	IN	A	202.188.124.45
+nes2014.bernama.com.	38400	IN	A	202.188.124.45
+newsdata1.bernama.com.	38400	IN	A	58.26.44.23
+newsdata2.bernama.com.	38400	IN	A	58.26.44.24
+newslinkiv.bernama.com.	38400	IN	A	211.25.233.215
+newswire.bernama.com.	38400	IN	A	211.25.233.215
+ns.bernama.com.		38400	IN	A	202.188.124.58
+ns2.bernama.com.	38400	IN	A	202.75.136.7
+plus.bernama.com.	38400	IN	A	58.26.44.15
+property.bernama.com.	38400	IN	A	202.188.124.45
+pru13.bernama.com.	38400	IN	A	211.25.238.21
+resultpru13.bernama.com. 38400	IN	A	211.25.238.20
+smeshack.bernama.com.	38400	IN	A	202.188.124.45
+spa.bernama.com.	38400	IN	A	202.75.136.9
+subscribe.bernama.com.	38400	IN	A	58.26.44.22
+tm.bernama.com.		38400	IN	A	202.188.124.45
+tourism.bernama.com.	38400	IN	A	202.188.124.43
+video.bernama.com.	38400	IN	A	202.188.124.45
+video1.bernama.com.	38400	IN	A	202.75.136.5
+videoarchive.bernama.com. 38400	IN	A	58.26.44.22
+videobtv.bernama.com.	38400	IN	A	202.75.136.5
+web10.bernama.com.	38400	IN	A	202.188.124.45
+web3.bernama.com.	38400	IN	A	202.188.124.43
+web5.bernama.com.	38400	IN	A	58.26.44.12
+web6.bernama.com.	38400	IN	A	58.26.44.6
+web7.bernama.com.	38400	IN	A	58.26.44.7
+web8.bernama.com.	38400	IN	A	58.26.44.8
+webtv.bernama.com.	38400	IN	A	202.188.124.45
+www.bernama.com.	38400	IN	CNAME	bernama.com.
+youth.bernama.com.	38400	IN	A	202.188.124.45
+bernama.com.		38400	IN	SOA	ns.bernama.com. dnsadmin.bernama.com. 2013051045 3600 900 2419200 3600
+;; Query time: 1204 msec
+;; SERVER: 202.75.136.7#53(202.75.136.7)
+;; WHEN: Fri Mar 11 09:13:38 中国标准时间 2016
+;; XFR size: 106 records (messages 1, bytes 2424)
+

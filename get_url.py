@@ -31,7 +31,7 @@ def getUrl(html):
     urllist = re.findall(urlre,html)
     return urllist      
    
-html = getHtml("http://www.qkankan.com/guonei/all/") #地址输入
+html = getHtml("http://www.qkankan.com/medium/") #地址输入
 ans = getUrl(html)
 
 fobj = open('target_list.txt','w') #输出位置
