@@ -14,6 +14,7 @@ support multithreading,batch scanning and vulnerability exploitation
   
 #利用  
 `> .\BIND9\dig.exe @dns01.benq.com axfr benq.com`  
+该命令结果已被脚本自动存储到\dns\目录中
   
 #参考  
 [lijiejie/edu-dns-zone-transfer](https://github.com/lijiejie/edu-dns-zone-transfer)  
